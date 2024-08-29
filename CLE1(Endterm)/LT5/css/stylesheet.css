@@ -1,0 +1,258 @@
+body {
+   background-image: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+ #wrapper {
+    width:1100px;
+    height: 720px;
+    display: inline-flex;
+}
+#wrapper #firstrow {
+    margin-left: 155px;
+    margin-right: 155px;
+    margin-top: 8px;
+   
+}
+#wrapper #firstrow .Jah {
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    cursor:pointer;
+}
+#wrapper #firstrow .Jah img{
+     width:165px;
+    height:200px;
+    float: left;
+    border: solid 3px #000;
+    border-radius: 15px 50px;
+    margin-left:10px;
+    margin-top: 500px;
+    margin-bottom: 25px;
+}
+#wrapper #firstrow .Jah .tooltip {
+    position:absolute;
+    background:#0dba86 ;
+    width: 10px;
+    margin-left: -70px;
+    margin-top: 420px;
+    font-family: cursive;
+    font-size: 17px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 25px;
+    opacity: 0;
+    pointer-events: none;
+  
+}
+#wrapper #firstrow .Jah:hover .tooltip{
+    opacity:90%;
+    width:300px;
+    pointer-events: auto;
+}
+#wrapper #firstrow .Jah .tooltip:before {
+    position: absolute;
+    content: "";
+    height: 15px;
+    width:15px;
+    background: #0dba86;
+    bottom: -7px;
+    left:50%;
+    transform:translate(-50%) rotate(45deg);
+}
+#wrapper #firstrow .Ken {
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    cursor: pointer;
+
+}
+#wrapper #firstrow .Ken img{
+    width:165px;
+    height:200px;
+    float: left;
+    border: solid 3px #000;
+    border-radius: 15px 50px;
+    margin-left:25px;
+    margin-top: 500px;
+    margin-bottom: 25px;
+
+}
+#wrapper #firstrow .Ken .tooltip {
+    position:absolute;
+    background: #ae808e ;
+    width: 10px;
+    margin-left:120px;
+    margin-top: 422px;
+    font-family: cursive;
+    font-size: 17px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 25px;
+    opacity: 0;
+    pointer-events: none;
+  
+}
+#wrapper #firstrow .Ken:hover .tooltip{
+     opacity:90%;
+    width:300px;
+    pointer-events: auto;
+}
+#wrapper #firstrow .Ken .tooltip:before {
+    position: absolute;
+    content: "";
+    height: 15px;
+    width:15px;
+    background: #ae808e;
+    bottom: -7px;
+    left:50%;
+    transform:translate(-50%) rotate(45deg);
+}
+#wrapper #firstrow .Pablo{
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    cursor: pointer;
+}
+
+#wrapper #firstrow .Pablo img{
+     width:165px;
+    height:200px;
+    float: left;
+    border: solid 3px #000;
+    border-radius: 15px 50px;
+    margin-left:25px;
+    margin-top: 504px;
+    margin-bottom: 25px;
+}
+#wrapper #firstrow .Pablo .tooltip {
+    position:absolute;
+    background:#c5afd4;
+    width: 10px;
+    margin-left:320px;
+    margin-top: 425px;
+    font-family: cursive;
+    font-size: 17px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 25px;
+    opacity: 0;
+    pointer-events: none;
+  
+}
+#wrapper #firstrow .Pablo:hover .tooltip{
+    opacity:90%;
+    width:300px;
+    pointer-events: auto;
+}
+#wrapper #firstrow .Pablo .tooltip:before {
+    position: absolute;
+    content: "";
+    height: 15px;
+    width:15px;
+    background:#c5afd4;
+    bottom: -7px;
+    left:50%;
+    transform:translate(-50%) rotate(45deg);
+}
+
+#wrapper #firstrow .Stell {
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    cursor: pointer;
+}
+#wrapper #firstrow .Stell img{
+    width:165px;
+    height:200px;
+    float: left;
+    border: solid 3px #000;
+    border-radius: 15px 50px;
+    margin-left:595px;
+    margin-top: -228px;
+    margin-bottom: 25px;
+} 
+#wrapper #firstrow .Stell .tooltip {
+     position:absolute;
+    background:#f3c700;
+    width: 10px;
+    margin-left:510px;
+  margin-top: 427px;
+    font-family: cursive;
+    font-size: 17px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 25px;
+    opacity: 0;
+    pointer-events: none;
+  
+}
+#wrapper #firstrow .Stell:hover .tooltip{
+   opacity:90%;
+    width:300px;
+    pointer-events: auto;
+}
+#wrapper #firstrow .Stell .tooltip:before {
+    position: absolute;
+    content: "";
+    height: 15px;
+    width:15px;
+    background:#f3c700;
+    bottom: -7px;
+    left:50%;
+    transform:translate(-50%) rotate(45deg);
+}
+
+#wrapper #firstrow .Josh {
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    cursor: pointer;
+}
+#wrapper #firstrow .Josh img{
+    width:165px;
+    height:200px;
+    float: left;
+    border: solid 3px #000;
+    border-radius: 15px 50px;
+    margin-left:790px;
+    margin-top: -230px;
+   
+} 
+#wrapper #firstrow .Josh .tooltip {
+     position:absolute;
+    background:#ff3b3b;
+    width: 50px;
+    margin-left:710px;
+   margin-top: 427px;
+    font-family: cursive;
+    font-size: 17px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 25px;
+    opacity: 0;
+    pointer-events: none;
+  
+}
+#wrapper #firstrow .Josh:hover .tooltip{
+    opacity:95%;
+    width:300px;
+    pointer-events: auto;
+}
+#wrapper #firstrow .Josh .tooltip:before {
+    position: absolute;
+    content: "";
+    height: 15px;
+    width:15px;
+    background:#ff3b3b;
+    bottom: -7px;
+    left:50%;
+    transform:translate(-50%) rotate(45deg);
+}

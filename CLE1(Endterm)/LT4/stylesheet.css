@@ -1,0 +1,20 @@
+body{
+    background-image: url(bg.jpg);
+     background-size: cover;
+    background-repeat: no-repeat;
+}
+#main #body h1{
+    margin-top: 7%;
+ font-family: 'Dancing Script', cursive;
+    color: #faf0e6 ;
+}
+#main #body h3{
+   font-family: 'Montserrat', sans-serif;
+    color:#faf0e6 ;
+}
+#main #body p{
+     margin-top: 5%;
+  font-family: 'Caveat', cursive;
+    color:#e6e6ea;
+    font-size: 31px;
+}

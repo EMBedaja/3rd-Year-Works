@@ -1,0 +1,188 @@
+body {
+    background-image: url(bgpic.png);
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+    #mainbox {
+    width:1300px;
+    height: 930px;
+    background-color:#4B2E07;
+    opacity: 80%;
+    margin-left: 1%;
+    margin-bottom: 3%;
+    margin-top: 3%;
+}
+    #mainbox #firstrow {
+    height:350px;
+    width:100%;
+}
+    #mainbox #secondrow {
+    width:100%;
+    height:350px;
+}
+    #mainbox #firstrow .Running {
+    width:15%;
+    height:110%;
+    padding:5px;
+    border: solid 3px #9A7B4F;
+    margin-left: 3%;
+    margin-bottom: 1%;
+    float:left;
+    color: beige; 
+}
+    #mainbox #firstrow .Running img{
+    width:100%;
+}
+    #mainbox #firstrow .Running p {
+    font-size:14px; 
+}
+    #mainbox #firstrow .Law {
+    width:15%;
+    height:110%;
+    padding:5px;
+    border: solid 3px #9A7B4F;
+    margin-left:3%;
+    margin-bottom: 1%;
+    float:left;
+    color: beige; 
+}
+    #mainbox #firstrow .Law img{
+    width:100%;
+    height:37%;
+}
+    #mainbox #firstrow .Law p {
+    font-size:14px;
+}
+#mainbox #firstrow .Busted {
+    width:15%;
+    height:110%;
+    padding:5px;
+    border: solid 3px #9A7B4F;
+    margin-left:3%;
+    margin-bottom: 1%;
+    float:left;
+    color: beige; 
+}
+#mainbox #firstrow .Busted img{
+    width:100%;
+     height:37%;
+}
+#mainbox #firstrow .Busted p {
+    font-size:14px;
+}
+#mainbox #firstrow .Sixth {
+    width:15%;
+    height:110%;
+    padding:5px;
+    border: solid 3px #9A7B4F;
+    margin-left:3%;
+    margin-bottom: 1%;
+    float:left;
+    color: beige;
+}
+#mainbox #firstrow .Sixth img{
+    width:100%;
+     height:37%;
+}
+#mainbox #firstrow .Sixth p {
+    font-size:14px;
+} 
+#mainbox #firstrow .Bros {
+    width:15%;
+    height:110%;
+    padding:5px;
+    border: solid 3px #9A7B4F;
+    margin-left:3%;
+    margin-bottom: 1%;
+    float:left;
+    color: beige; 
+}
+#mainbox #firstrow .Bros img{
+    width:100%;
+     height:37%;
+}
+#mainbox #firstrow .Bros p {
+    font-size:14px;
+}
+#mainbox #secondrow .Village {
+    width:15%;
+    height:110%;
+    padding:5px;
+    border: solid 3px #9A7B4F;
+    margin-left:3%;
+    float:left;
+    color: beige; 
+}
+#mainbox #secondrow .Village img{
+    width:100%;
+     height:37%;
+}
+#mainbox #secondrow .Village p {
+    font-size:14px;
+}
+#mainbox #secondrow .Rendezvous {
+    width:15%;
+    height:110%;
+    padding:5px;
+    border: solid 3px #9A7B4F;
+    margin-left:3%;
+    float:left;
+    color: beige; 
+}
+#mainbox #secondrow .Rendezvous img{
+    width:100%;
+     height:37%;
+}
+#mainbox #secondrow .Rendezvous p {
+    font-size:14px;
+}
+#mainbox #secondrow .Master {
+    width:15%;
+    height:110%;
+    padding:5px;
+    border: solid 3px #9A7B4F;
+    margin-left:3%;
+    float:left;
+    color: beige; 
+}
+#mainbox #secondrow .Master img{
+    width:100%;
+     height:37%;
+}
+#mainbox #secondrow .Master p {
+    font-size:14px;
+}
+#mainbox #secondrow .married {
+    width:15%;
+    height:110%;
+    padding:5px;
+    border: solid 3px #9A7B4F;
+    margin-left:3%;
+    float:left;
+    color: beige; 
+}
+#mainbox #secondrow .married img{
+    width:100%;
+     height:37%;
+}
+#mainbox #secondrow .married p {
+    font-size:14px;
+}
+
+#mainbox #secondrow .Saturday {
+    width:15%;
+    height:110%;
+    padding:5px;
+    border: solid 3px #9A7B4F;
+    margin-left:3%;
+    float:left;
+    color: beige; 
+}
+#mainbox #secondrow .Saturday img{
+    width:100%;
+     height:37%;
+}
+#mainbox #secondrow .Saturday p {
+    font-size:14px;
+}
